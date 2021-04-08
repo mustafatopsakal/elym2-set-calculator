@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31515.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Metin2_Efsun_Hesaplayici", "Metin2_Efsun_Hesaplayici\Metin2_Efsun_Hesaplayici.csproj", "{52919653-F7BA-47BC-B65C-2818D9B76514}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "SetupEfsunHesaplayici", "SetupEfsunHesaplayici\SetupEfsunHesaplayici.vdproj", "{0BB17069-040C-4AAA-BF59-033775E8E877}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{52919653-F7BA-47BC-B65C-2818D9B76514}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52919653-F7BA-47BC-B65C-2818D9B76514}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52919653-F7BA-47BC-B65C-2818D9B76514}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{52919653-F7BA-47BC-B65C-2818D9B76514}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0BB17069-040C-4AAA-BF59-033775E8E877}.Debug|Any CPU.ActiveCfg = Debug
+		{0BB17069-040C-4AAA-BF59-033775E8E877}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5CEC51DE-4FFC-4551-8B58-9F96D41E6AA7}
+	EndGlobalSection
+EndGlobal
